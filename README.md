@@ -7,3 +7,7 @@
 
 * [1448881 - Multiple Failed instances spawned after DST starts](https://launchpad.support.sap.com/#/notes/1448881)
 * [2407767 - SAP BI Platform Support Tool *** Master KBA ***](https://launchpad.support.sap.com/#/notes/2407767)
+
+### SAP Lumira
+
+* [2541042 - SAP Lumira 2.x performance and sizing - resources and troubleshooting *** MASTER KBA ***](https://launchpad.support.sap.com/#/notes/2541042)
