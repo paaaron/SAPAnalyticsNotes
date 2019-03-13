@@ -10,6 +10,10 @@
 * [1448881 - Multiple Failed instances spawned after DST starts](https://launchpad.support.sap.com/#/notes/1448881)
 * [2407767 - SAP BI Platform Support Tool *** Master KBA ***](https://launchpad.support.sap.com/#/notes/2407767)
 * [BI Platform SDK](https://archive.sap.com/documents/docs/DOC-38051)
+* [2127813 - Troubleshooting Publications in SAP BusinessObjects Business Intelligence Platform ***Master KBA ***](https://launchpad.support.sap.com/#/notes/2127813)
+* [2554287 - Support Components and Responsibilities for BI Platform [Which component to raise an incident in]](https://launchpad.support.sap.com/#/notes/2554287)
+* [2097401 - DisableInactiveUsers Script for BI 4.x](https://launchpad.support.sap.com/#/notes/2097401)
+* [1986781 - Recurring instances' runtimes are adjusted +1 hour following Daylight Savings Time forward shift (Spring)](https://launchpad.support.sap.com/#/notes/1986781)
 
 ### SAP Lumira
 
