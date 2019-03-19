@@ -14,6 +14,8 @@
 * [2554287 - Support Components and Responsibilities for BI Platform [Which component to raise an incident in]](https://launchpad.support.sap.com/#/notes/2554287)
 * [2097401 - DisableInactiveUsers Script for BI 4.x](https://launchpad.support.sap.com/#/notes/2097401)
 * [1986781 - Recurring instances' runtimes are adjusted +1 hour following Daylight Savings Time forward shift (Spring)](https://launchpad.support.sap.com/#/notes/1986781)
+* [1272559 - Maximum Binary File Size limit exceeded when exporting a Web Intelligence report to CSV format](https://launchpad.support.sap.com/#/notes/1272559)
+* [1383664 - Error: ERR_WIS_30271 is seen when a Web Intelligence document with large data being exported to Excel, PDF, CSV, DHTML](https://launchpad.support.sap.com/#/notes/1383664)
 
 ### SAP Lumira
 
