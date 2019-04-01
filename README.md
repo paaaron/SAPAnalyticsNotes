@@ -22,6 +22,7 @@
 
 ### Apache Tomcat
 
+* [2498770 - Tomcat vulnerabilities (CVE-*) NOT impacting SAP BusinessObjects Business Intelligence Platform XI 3.1 /4.0 /4.1 /4.2](https://launchpad.support.sap.com/#/notes/2498770)
 * [How do I override the default home page loaded by Tomcat?](https://wiki.apache.org/tomcat/HowTo#How_do_I_override_the_default_home_page_loaded_by_Tomcat.3F)
 
 
