@@ -15,6 +15,7 @@
 * [1986781 - Recurring instances' runtimes are adjusted +1 hour following Daylight Savings Time forward shift (Spring)](https://launchpad.support.sap.com/#/notes/1986781)
 * [1272559 - Maximum Binary File Size limit exceeded when exporting a Web Intelligence report to CSV format](https://launchpad.support.sap.com/#/notes/1272559)
 * [1383664 - Error: ERR_WIS_30271 is seen when a Web Intelligence document with large data being exported to Excel, PDF, CSV, DHTML](https://launchpad.support.sap.com/#/notes/1272559)
+* [2495798 - How to change the hostname and maintain BusinessObjects on Linux/Unix server?](https://launchpad.support.sap.com/#/notes/2495798)
 
 ### SAP Lumira
 
@@ -24,7 +25,6 @@
 
 * [2498770 - Tomcat vulnerabilities (CVE-*) NOT impacting SAP BusinessObjects Business Intelligence Platform XI 3.1 /4.0 /4.1 /4.2](https://launchpad.support.sap.com/#/notes/2498770)
 * [How do I override the default home page loaded by Tomcat?](https://wiki.apache.org/tomcat/HowTo#How_do_I_override_the_default_home_page_loaded_by_Tomcat.3F)
-
 
 ### SAP Business Warehouse
 
