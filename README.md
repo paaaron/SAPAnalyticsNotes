@@ -15,10 +15,14 @@
 * [1986781 - Recurring instances' runtimes are adjusted +1 hour following Daylight Savings Time forward shift (Spring)](https://launchpad.support.sap.com/#/notes/1986781)
 * [1272559 - Maximum Binary File Size limit exceeded when exporting a Web Intelligence report to CSV format](https://launchpad.support.sap.com/#/notes/1272559)
 * [1383664 - Error: ERR_WIS_30271 is seen when a Web Intelligence document with large data being exported to Excel, PDF, CSV, DHTML](https://launchpad.support.sap.com/#/notes/1272559)
+<<<<<<< HEAD
 * [1275068 - Backup & Restore XI 3.1 / BI 4.x from one environment to another [video]](https://launchpad.support.sap.com/#/notes/1275068)
 * [2034684 - BI4.x - How to clone a BusinessObjects Server?](https://launchpad.support.sap.com/#/notes/2034684)
 * [2311751 - BI 4.x: How to export images based on a URL in Web Intelligence to PDF or Excel[Video]](https://launchpad.support.sap.com/#/notes/2311751)
 
+=======
+* [2495798 - How to change the hostname and maintain BusinessObjects on Linux/Unix server?](https://launchpad.support.sap.com/#/notes/2495798)
+>>>>>>> ed06fe8d17971ba468347c24584aef1f8883b2fd
 
 ### SAP Lumira
 
@@ -26,9 +30,9 @@
 
 ### Apache Tomcat
 
+* [2498770 - Tomcat vulnerabilities (CVE-*) NOT impacting SAP BusinessObjects Business Intelligence Platform XI 3.1 /4.0 /4.1 /4.2](https://launchpad.support.sap.com/#/notes/2498770)
 * [How do I override the default home page loaded by Tomcat?](https://wiki.apache.org/tomcat/HowTo#How_do_I_override_the_default_home_page_loaded_by_Tomcat.3F)
 * [1675121 - How to configure session timeout for clustered Tomcat environment](https://launchpad.support.sap.com/#/notes/1675121)
-
 
 ### SAP Business Warehouse
 
@@ -37,4 +41,7 @@
 ### SAP Data Services
 
 * [2010050 - Error: "Maximum waiting time of 7,200 seconds exceeded" when execute job which extract data from SAP system by SAP extractor](https://launchpad.support.sap.com/#/notes/2010050)
+<<<<<<< HEAD
 * [1529882 - Is there a sizing guide available for Data Services?](https://launchpad.support.sap.com/#/notes/1529882)
+=======
+>>>>>>> ed06fe8d17971ba468347c24584aef1f8883b2fd
