@@ -30,7 +30,7 @@
 * [2498770 - Tomcat vulnerabilities (CVE-*) NOT impacting SAP BusinessObjects Business Intelligence Platform XI 3.1 /4.0 /4.1 /4.2](https://launchpad.support.sap.com/#/notes/2498770)
 * [How do I override the default home page loaded by Tomcat?](https://wiki.apache.org/tomcat/HowTo#How_do_I_override_the_default_home_page_loaded_by_Tomcat.3F)
 * [1675121 - How to configure session timeout for clustered Tomcat environment](https://launchpad.support.sap.com/#/notes/1675121)
-
+* [2112338 - List of Bundled Tomcat and JVM versions shipped with each (support pack) SP of SAP BusinessObjects Business Intelligence 4.0/4.1/4.2](https://launchpad.support.sap.com/#/notes/2112338)
 ### SAP Business Warehouse
 
 * [1660374 - Fetch does not wait long enough; timeout](https://wiki.apache.org/tomcat/HowTo#How_do_I_override_the_default_home_page_loaded_by_Tomcat.3F)
