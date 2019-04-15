@@ -19,7 +19,7 @@
 * [2034684 - BI4.x - How to clone a BusinessObjects Server?](https://launchpad.support.sap.com/#/notes/2034684)
 * [2311751 - BI 4.x: How to export images based on a URL in Web Intelligence to PDF or Excel[Video]](https://launchpad.support.sap.com/#/notes/2311751)
 * [1275068 - Backup & Restore XI 3.1 / BI 4.x from one environment to another [video]](https://launchpad.support.sap.com/#/notes/1275068)
-* [2304640 - When scheduling webi reports receive error: 'write error. [CrystalEnterprise.Smtp]: [Error sending mail message to SMTP server. Return code: 552'](https://launchpad.support.sap.com/#/notes/2304640)
+* [2304640 - When scheduling webi reports receive error: 'write error. [CrystalEnterprise.Smtp: [Error sending mail message to SMTP server. Return code: 552'](https://launchpad.support.sap.com/#/notes/2304640)
 
 
 ### SAP Lumira
