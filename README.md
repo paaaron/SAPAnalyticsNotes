@@ -22,7 +22,7 @@
 * [2304640 - When scheduling webi reports receive error: 'write error. CrystalEnterprise.Smtp: [Error sending mail message to SMTP server. Return code: 552']](https://launchpad.support.sap.com/#/notes/2304640)
 * [1927029 - Creating a backup of a BI system using Promotion Management / LifeCycle Manager [How-To]](https://launchpad.support.sap.com/#/notes/1927029)
 * [2297866 - Tomcat8 (Java 8) no longer uses Permsize and MaxPermsize](https://launchpad.support.sap.com/#/notes/2297866)
-
+* [2546115 - How to reset User Security to Default](https://launchpad.support.sap.com/#/notes/2546115)
 
 ### SAP Lumira
 
